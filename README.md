@@ -20,6 +20,7 @@
 - 💬 Ask me about the best coffee places in Los Angeles :coffee:
 - 📫 How to reach me: Let's get linked! :link: www.linkedin.com/in/min-kim-76a640155, :email:-me!:blush::minjkim95@gmail.com
 - ⚡ Fun fact: I love :smirk_cat:
+- :arrow_down: Check out my repositories :arrow_down:
 <!--
 **minjkim95/minjkim95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
