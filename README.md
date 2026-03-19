@@ -14,8 +14,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-- 🔭 I’m currently working on baseball data analysis with Python's statcast dataset!
-- 🌱 I’m currently learning natural language processing in Python!
+- 🔭 I’m currently working on baseball data analysis with Python's statcast dataset! :baseball:
+- 🌱 I’m currently learning natural language processing in Python :eyes:
 - 👯 I’m looking to collaborate on any data analysis projects! :blush:
 - 💬 Ask me about the best coffee places in Los Angeles :coffee:
 - 📫 How to reach me: Let's get linked! :link: www.linkedin.com/in/min-kim-76a640155, :email:-me!:blush::minjkim95@gmail.com
